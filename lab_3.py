@@ -1,4 +1,7 @@
-person_one=input("what is the age of the first person?")
-person_two=input("what is the age of the first person?")
+user=input("say something!")
+print(user.upper())
+print(user.lower())
+print(user.swapcase())
+
 
 
